@@ -35,6 +35,7 @@
     "typescript-eslint": "^8.24.1"
   },
   "dependencies": {
+    "http-status": "^2.1.0",
     "zod": "^3.24.2"
   }
 }
